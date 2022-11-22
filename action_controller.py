@@ -1,6 +1,4 @@
 from action_mapping import ActionMapping, Actions, MAP_OBJECT_TO_NUMBER
-
-
 class ActionController:
 
     def __init__(self):
